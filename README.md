@@ -46,8 +46,9 @@ This repository describes how to control the robot arm by joint_state_publisher 
 # Controlling the robot arm by Moveit and kinematics
 - Run the instruction/
 
-   $ roslaunch moveit_pkg demo_gazebo.launch
-  -Result:
+    $ roslaunch moveit_pkg demo_gazebo.launch
+  
+- Result:
   
   ![moveit](https://github.com/ProShaden/Controlling-the-robot-arm/assets/174384069/759cac88-14ec-48ef-aef4-84fa37238436)
 
